@@ -1,0 +1,18 @@
+# ninja log v5
+1	373	637908880	CMakeFiles/Lab1.dir/Lab1.cpp.obj	d70e03f8e648ef1a
+373	613	637908880	Lab1.exe	4e08077db1d1904f
+1	328	637909294	CMakeFiles/Lab1.dir/Lab1.cpp.obj	d70e03f8e648ef1a
+0	6	0	clean	fa478307b0740d8d
+1	315	637909309	CMakeFiles/Lab1.dir/Lab1.cpp.obj	d70e03f8e648ef1a
+0	5	0	clean	fa478307b0740d8d
+0	452	637909361	CMakeFiles/Lab1.dir/Lab1.cpp.obj	d70e03f8e648ef1a
+0	484	637909460	CMakeFiles/Lab1.dir/Lab1.cpp.obj	d70e03f8e648ef1a
+485	600	637909460	Lab1.exe	4e08077db1d1904f
+0	6	0	clean	fa478307b0740d8d
+0	5	0	clean	fa478307b0740d8d
+0	329	637909469	CMakeFiles/Lab1.dir/Lab1.cpp.obj	d70e03f8e648ef1a
+329	445	637909469	Lab1.exe	4e08077db1d1904f
+0	340	637909600	CMakeFiles/Lab1.dir/Lab1.cpp.obj	d70e03f8e648ef1a
+340	448	637909600	Lab1.exe	4e08077db1d1904f
+1	499	637910004	CMakeFiles/Joel_Lab1.dir/Lab1.cpp.obj	cd0d1bb90535a9e0
+499	769	637910004	Joel_Lab1.exe	ffbfea2df0737e2b
